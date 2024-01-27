@@ -60,7 +60,7 @@ Some common problems and their solutions -
 |Problem|Solution|
 |-|-|
 |Display stays white after uploading program|Non-Standard Driver (not ILI9486)|
-|Display not responding after touch|Try changing the order of the touch pins in ```src/constants.h``` file, i.e. swap the values of ```XP```, ```YP```, ```XM``` and ```YM```|
+|Display not responding after touch|Try changing the order of the touch pins in [```src/constants.h```](/src/constants.h) file, i.e. swap the values of ```XP```, ```YP```, ```XM``` and ```YM```|
 |Compilation issues related to SPI|Update the Arduino IDE version and/or install the SPI library|
 |Display Flickering/Arduino is reset automatically|Faulty Power Supply/Cable|
 
