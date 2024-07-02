@@ -53,6 +53,8 @@ Format an SD Card with a FAT32 filesystem with a single drive. Load a BMP Image 
 
 As soon as the program is uploaded, the display should turn red and the image should be slowly painted on the display, starting from the top-left corner.
 
+![Example bitmap image drawn on top-left corner of ILI9486 TFT LCD display](images/dumblebots_bmp.jpg)
+
 ## Troubleshooting
 
 Some common problems and their solutions -
