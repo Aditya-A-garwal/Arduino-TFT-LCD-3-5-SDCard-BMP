@@ -26,6 +26,9 @@ The program has been written using PlatformIO, and has been tested on the [Ardui
 
 The loadBMP, read16 and read32 functions in [```src/main.cpp```](/src/main.cpp) have been taken from [this example in the MCUFRIEND repository](https://github.com/prenticedavid/MCUFRIEND_kbv/blob/master/examples/showBMP_kbv_Uno/showBMP_kbv_Uno.ino), for fair use and educational purposes. All code taken from other repositories belongs to their respective authors and are protected by their respective licenses.
 
+> [!TIP]
+> A detailed tutorial on how to use this repository is available at https://dumblebots.com/2024/07/07/using-3-5-tft-lcd-display-with-ili9486-arduino-part-4-images-bitmaps-sd-card/. The tutorial includes a comprehensive explanation of the code and how to use it.
+
 ## Building/Uploading With PlatformIO
 
 Since this project has been written using PlatformIO by default, simply run the following commands to fetch the libraries, build the project and upload the program -
